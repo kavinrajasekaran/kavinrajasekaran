@@ -9,5 +9,5 @@ I work on AI, computer vision, and software performance optimization.
 - **RAG Chatbot Platform** – Modular retrieval-augmented chatbot powered by Llama 3.2, LangChain, and SentenceTransformers for customer support and automation
 
 ## 📫 Contact
-- Email: kavin@email.com
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- Email: kavin.krajasekaran@gmail.com
+- LinkedIn: [[linkedin.com/in/yourname](https://www.linkedin.com/in/kavin-rajasekaran/)](https://www.linkedin.com/in/kavin-rajasekaran/)
