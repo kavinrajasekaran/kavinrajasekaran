@@ -1,4 +1,4 @@
-# Hi, I'm Kavin 
+# hi, i'm kavin
 
 I'm a Computer Science & Engineering graduate from UC Merced and an incoming MS ECE student at UC Davis.  
 I work on AI, computer vision, and software performance optimization.
