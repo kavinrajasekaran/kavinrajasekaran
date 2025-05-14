@@ -10,4 +10,4 @@ I work on AI, computer vision, and software performance optimization.
 
 ## 📫 Contact
 - Email: kavin.krajasekaran@gmail.com
-- LinkedIn: [[linkedin.com/in/yourname](https://www.linkedin.com/in/kavin-rajasekaran/)](https://www.linkedin.com/in/kavin-rajasekaran/)
+- LinkedIn: [[linkedin.com/in/yourname](https://www.linkedin.com/in/kavin-rajasekaran/)]
