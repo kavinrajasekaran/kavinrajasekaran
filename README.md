@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Kavin 
 
-<!--
-**kavinrajasekaran/kavinrajasekaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science & Engineering graduate from UC Merced and an incoming MS ECE student at UC Davis.  
+I work on AI, computer vision, and software performance optimization.
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- **Loitering Detection AI (in progress)** – Real-time surveillance system using YOLOv8, facial detection, and object tracking to flag suspicious behavior
+- **Cryptography Research (ISQED '25)** – AVX-512 optimized encryption algorithms for high-performance computing
+- **RAG Chatbot Platform** – Modular retrieval-augmented chatbot powered by Llama 3.2, LangChain, and SentenceTransformers for customer support and automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- Email: kavin@email.com
+- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
