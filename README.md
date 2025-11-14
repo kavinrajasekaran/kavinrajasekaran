@@ -6,11 +6,12 @@ I work on AI, computer vision, and software performance optimization.
 ## My Work
 - **Loitering Detection AI (in progress)** – Real-time surveillance system using YOLOv8, facial detection, and object tracking to flag suspicious behavior  
 - **Cryptography Research (ISQED '25 & IEEE Xplore)** – AVX-512 optimized encryption algorithms for high-performance computing  
-- **RAG Chatbot Platform @ [Semcorel]([url](https://www.semcorel.com)) ** – Modular retrieval-augmented chatbot powered by Llama 3.2, LangChain, and SentenceTransformers for customer support and automation  
+- **RAG Chatbot Platform @ Semcorel** – Modular retrieval-augmented chatbot powered by Llama 3.2, LangChain, and SentenceTransformers for customer support and automation  
+  https://www.semcorel.com
 
 ## Contact
 - Email: kavin.krajasekaran@gmail.com  
-- LinkedIn: [linkedin.com/in/kavin-rajasekaran](https://www.linkedin.com/in/kavin-rajasekaran/)
+- LinkedIn: https://www.linkedin.com/in/kavin-rajasekaran/
 
 ---
 
