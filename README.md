@@ -1,6 +1,6 @@
 # Hi, I'm Kavin
 
-I'm a MS Electrical and Computer Engineering student at the University of California, Davis, and I previously completed a BS in Computer Science and Engineering at the University of California, Merced.  
+I'm a MS Electrical and Computer Engineering student at the University of California, Davis, and I previously completed a BS in Computer Science and Engineering at the University of California, Merced. I'm currently seeking internships this upcoming Winter, Spring, & Summer
 I work on AI, computer vision, and software performance optimization.
 
 ## My Work
