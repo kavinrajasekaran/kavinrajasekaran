@@ -1,9 +1,8 @@
 # Hi, I'm Kavin
 
-
 ## Contact
-- Email: kavin.krajasekaran@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/kavin-rajasekaran/
+- **Email:** kavin.krajasekaran@gmail.com  
+- **LinkedIn:** [https://www.linkedin.com/in/kavinkraj/](https://www.linkedin.com/in/kavinkraj/)
 
 ---
 
